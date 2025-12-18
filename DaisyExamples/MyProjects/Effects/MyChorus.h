@@ -10,7 +10,7 @@ namespace daisysp
     {
         public:
             void Init(float rate, float depth_ms, float base_ms, float wet, float fs, int numVoices);
-            float Process(float in, int i);
+            float Process(float in);
         private:
             float baseDelay, modDepth, fs, wet;
             std::vector<float> rates, phases, buffer;

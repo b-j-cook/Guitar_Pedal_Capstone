@@ -5,6 +5,7 @@ TARGET = InitTest
 CPP_SOURCES = InitTest.cpp
 CPP_SOURCES += ../Effects/MyTremolo.cpp
 CPP_SOURCES += ../lib/FIRTaps.cpp
+CPP_SOURCES += ../Effects/MyChorus.cpp
 
 # Library Locations
 LIBDAISY_DIR = ../../libDaisy/
