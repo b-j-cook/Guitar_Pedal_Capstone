@@ -2,6 +2,8 @@ Daisy Seed files and matlab simulation code can be found in the DaisySeed folder
 
 Analog distortion effect schematics can be found in the Analog Distortion Schematics folder. LTSpice and KiCad files are included.
 
+A full bill of materials is included in the General Files folder
+
 Go into DaisySeed->DaisyExamples->MyProjects. The area we have been working in is the InitTest folder.
 
 To edit, go to InitTest.cpp and edit. To upload changes cd into the InitTest folder.
