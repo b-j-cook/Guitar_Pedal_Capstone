@@ -1,4 +1,6 @@
-Go into DaisyExamples->MyProjects. The area we have been working in is the InitTest folder.
+Daisy Seed files and matlab simulation code can be found in the DaisySeed folder.
+
+Go into DaisySeed->DaisyExamples->MyProjects. The area we have been working in is the InitTest folder.
 
 To edit, go to InitTest.cpp and edit. To upload changes cd into the InitTest folder.
 
