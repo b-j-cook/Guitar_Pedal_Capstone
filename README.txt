@@ -7,7 +7,7 @@ Capstone_Guitar_Pedal_MATLAB contains MATLAB code and figures from analysis of t
 
 Analog distortion effect schematics can be found in the Analog Distortion Schematics folder. LTSpice and KiCad files are included.
 
-A full bill of materials is included in the General Files folder
+A full bill of materials is included in the PCB folder
 
 
 
