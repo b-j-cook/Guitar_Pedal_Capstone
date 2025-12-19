@@ -1,0 +1,44 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9d973051-ee78-4c06-9214-607e2e777856")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "9V"
+		(shape output)
+		(at 90.17 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01793827-549f-4929-bbae-01ab1ac4e4c8")
+	)
+	(hierarchical_label "GND"
+		(shape output)
+		(at 90.17 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d5e08303-61ad-4f07-a54b-713bd9c27cbf")
+	)
+	(hierarchical_label "WALL"
+		(shape input)
+		(at 105.41 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d88a271b-437c-4821-8c64-2d30e633dabb")
+	)
+)

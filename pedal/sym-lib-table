@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ES_IO")(type "KiCad")(uri "C:/Users/bengi/Downloads/ES_IO/ES_IO.kicad_sym")(options "")(descr ""))
+  (lib (name "ES_2164_V2")(type "KiCad")(uri "C:/Users/bengi/Downloads/ES_2164_V2/ES_2164_V2.kicad_sym")(options "")(descr ""))
+  (lib (name "ES_3340_V2")(type "KiCad")(uri "C:/Users/bengi/Downloads/ES_3340_V2/ES_3340_V2.kicad_sym")(options "")(descr ""))
+)
