@@ -923,7 +923,7 @@
 		)
 		(uuid "a0996e55-2f5f-4d47-a0d6-b3a6a6c1c83e")
 	)
-	(hierarchical_label "ALG_OUT"
+	(hierarchical_label "DIG_OUT"
 		(shape input)
 		(at 104.14 92.71 180)
 		(effects
